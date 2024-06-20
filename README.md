@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to Trading Journal. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices with regard to your personal information, please contact us at support@tradingjournalapp.com.
+Welcome to Trading Journal. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices with regard to your personal information, please contact us at trading.journal.awesome.app@gmail.com
 
 When you use our mobile application, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we describe our privacy practices. We seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue the use of our app immediately.
 
@@ -46,7 +46,7 @@ You have certain rights under applicable data protection laws. These may include
 ## Contact Us
 
 If you have questions or comments about this policy, you may contact us at:
-- **Email:** tradingjournalawesomeapp@gmail.com
+- **Email:** trading.journal.awesome.app@gmail.com
 
 ---
 
